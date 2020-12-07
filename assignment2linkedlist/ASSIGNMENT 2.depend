@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1605072591 source:c:\users\user\desktop\manipal\ads\single-linked-list-assert-based-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+
+1605072591 c:\users\user\desktop\manipal\ads\single-linked-list-assert-based-main\slist.h
+	<stdint.h>
+
+1605072591 source:c:\users\user\desktop\manipal\ads\single-linked-list-assert-based-main\slist.c
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+
+1605072591 source:c:\users\user\desktop\assignment2linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+
+1605072591 c:\users\user\desktop\assignment2linkedlist\slist.h
+	<stdint.h>
+
+1605072591 source:c:\users\user\desktop\assignment2linkedlist\slist.c
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+
